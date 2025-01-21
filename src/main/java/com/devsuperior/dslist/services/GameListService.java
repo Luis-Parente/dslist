@@ -1,4 +1,4 @@
-package com.devsuperior.dslist.dto.services;
+package com.devsuperior.dslist.services;
 
 import java.util.List;
 
